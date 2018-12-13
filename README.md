@@ -12,9 +12,9 @@
 		  username="repository username"
 		  passwrd="repository password">
 
-5- git-dir: the base directory to execute git commands.
-    repo-url: git repository url formatted https.
-    branch: the branch of the defined repository to pull.
-    username: username having the necessary permissions to access the repository
-    passwrd: password
-    sepBranch: if you set the value to "1", then new directory named by the branch name is created and later pulled the files to there.
+5-  <b>git-dir</b>: the base directory to execute git commands.<br>
+    <b>repo-url</b>: git repository url formatted https.<br>
+    <b>branch</b>: the branch of the defined repository to pull.<br>
+    <b>username</b>: username having the necessary permissions to access the repository<br>
+    <b>passwrd</b>: password<br>
+    <b>sepBranch</b>: if you set the value to "1", then new directory named by the branch name is created and later pulled the files to there.
