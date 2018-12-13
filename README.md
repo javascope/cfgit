@@ -7,10 +7,10 @@
 
 4- Sample custom tag usage:
 <cfx_CFGit git-dir="c:\catalyst\" 
-		  repo-url="https://bitbucket.org/<user>/<branch>.git" 
+		  repo-url="https://bitbucket.org/<<user>>/<<branch>>.git" 
       branch="master" 
-		  username="<repository username>"
-		  passwrd="<repository password>">
+		  username="<<repository username>>"
+		  passwrd="<<repository password>>">
 
 5- git-dir: the base directory to execute git commands.
     repo-url: git repository url formatted https.
