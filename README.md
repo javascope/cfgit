@@ -5,13 +5,14 @@
 
 3- cfx_CFGit Custom Tag: pulls all files of defined branch of the defined repository to the defined directory.
 
-4- Sample custom tag usage:
-<cfx_CFGit git-dir="c:\catalyst\" 
-		  repo-url="https://bitbucket.org/user/branch.git" 
-      branch="master" 
+4- Sample custom tag usage:<br><br>
+<pre>
+<cfx_CFGit git-dir="c:\catalyst\"
+		  repo-url="https://bitbucket.org/user/branch.git"
+      		  branch="master" 
 		  username="repository username"
 		  passwrd="repository password">
-
+</pre><br>
 5-  <b>git-dir</b>: the base directory to execute git commands.<br>
     <b>repo-url</b>: git repository url formatted https.<br>
     <b>branch</b>: the branch of the defined repository to pull.<br>
