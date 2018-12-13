@@ -7,7 +7,7 @@
 
 4- Sample custom tag usage:
 <cfx_CFGit git-dir="c:\catalyst\" 
-		  repo-url="https://bitbucket.org/workcube/beta-catalyst.git" 
+		  repo-url="https://bitbucket.org/<user>/<branch>.git" 
       branch="master" 
 		  username="<repository username>"
 		  passwrd="<repository password>">
