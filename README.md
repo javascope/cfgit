@@ -12,7 +12,8 @@
 		  repo-url="https://bitbucket.org/user/branch.git"<span class="p"> </span>
       		  branch="master"<span class="p"> </span>
 		  username="repository username"<span class="p"> </span>
-		  passwrd="repository password"><span class="p"> </span>
+		  passwrd="repository password"
+		  sepBranch="1 or another value"><span class="p"> </span>
 </code>
 	<button class="clip-btn" title="Click to copy" data-selector="true"><i class="fa fa-clipboard" aria-hidden="true"></i></button></pre>
 <br>
