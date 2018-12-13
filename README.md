@@ -15,7 +15,7 @@
 		  passwrd="repository password"><span class="p"> </span>
 </code>
 	<button class="clip-btn" title="Click to copy" data-selector="true"><i class="fa fa-clipboard" aria-hidden="true"></i></button></pre>
-<br><br>
+<br>
 5-  <b>git-dir</b>: the base directory to execute git commands.<br>
     <b>repo-url</b>: git repository url formatted https.<br>
     <b>branch</b>: the branch of the defined repository to pull.<br>
